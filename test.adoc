@@ -9,6 +9,10 @@ To go back to the README where all the chapters are: click link:README.asciidoc[
 
 toc::[]
 
+== 01.01: first
+== 01.02: second
+== 01.03: third
+
 == 2.1: Intro
 
 We first meet our instructors: *Jake Archibald* from London who will do
