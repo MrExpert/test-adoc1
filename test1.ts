@@ -4,7 +4,7 @@ import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { AppModule } from './app/app.module';
 import { environment } from './environments/environment';
 
-// if statemant starting
+// if statemant starting so be it
 if (environment.production) {
     // production mode is on
   enableProdMode();
