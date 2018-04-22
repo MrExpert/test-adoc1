@@ -9,7 +9,21 @@ To go back to the README where all the chapters are: click link:README.asciidoc[
 
 toc::[]
 
-== 01.01: first
+== 01.01: first 
+
+rable - Are identifiable as “applications” thanks to W3C
+manifests[6] and service worker registration scope allowing search
+engines to find them. +
+Re-engageable - Make re-engagement easy through features like push
+notifications. +
+Installable - Allow users to “keep” apps they find most useful on their
+home screen without the hassle of an app store. +
+Linkable - Easily shared via a URL and do not require complex
+installation. +
+Progressive Web Apps described by Shoaib in a follow-up post:[7] are an
+enhancement of existing web technology. As such, they do not require
+separate bundling or distribution. Publication of a Progressive Web App
+is as it would be for 
 == 01.02: second
 == 01.03: third
 
