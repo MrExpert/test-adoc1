@@ -33,9 +33,27 @@ some text
 cd pwd git init
 ----
 
+here is some javascript 
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
 == 01.03: third
 
 this is a link: https://somewebsite.com[exampleLink]
+
+here is some javascript 2
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
 == 2.1: Intro
 
